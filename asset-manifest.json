@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/atak-ui/static/css/main.36dd0d7d.chunk.css",
-    "main.js": "/atak-ui/static/js/main.9812b4b5.chunk.js",
-    "main.js.map": "/atak-ui/static/js/main.9812b4b5.chunk.js.map",
+    "main.js": "/atak-ui/static/js/main.ac12498e.chunk.js",
+    "main.js.map": "/atak-ui/static/js/main.ac12498e.chunk.js.map",
     "runtime~main.js": "/atak-ui/static/js/runtime~main.d933a830.js",
     "runtime~main.js.map": "/atak-ui/static/js/runtime~main.d933a830.js.map",
-    "static/js/2.5e784b7d.chunk.js": "/atak-ui/static/js/2.5e784b7d.chunk.js",
-    "static/js/2.5e784b7d.chunk.js.map": "/atak-ui/static/js/2.5e784b7d.chunk.js.map",
+    "static/js/2.5e414d88.chunk.js": "/atak-ui/static/js/2.5e414d88.chunk.js",
+    "static/js/2.5e414d88.chunk.js.map": "/atak-ui/static/js/2.5e414d88.chunk.js.map",
     "index.html": "/atak-ui/index.html",
-    "precache-manifest.babf8c885d1e58a906bcfdb015838206.js": "/atak-ui/precache-manifest.babf8c885d1e58a906bcfdb015838206.js",
+    "precache-manifest.9abfde2cd6b538f330e73f7657c7ec2d.js": "/atak-ui/precache-manifest.9abfde2cd6b538f330e73f7657c7ec2d.js",
     "service-worker.js": "/atak-ui/service-worker.js",
     "static/css/main.36dd0d7d.chunk.css.map": "/atak-ui/static/css/main.36dd0d7d.chunk.css.map",
     "static/media/logo.svg": "/atak-ui/static/media/logo.5d5d9eef.svg"

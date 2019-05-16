@@ -11,10 +11,10 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/atak-ui/precache-manifest.babf8c885d1e58a906bcfdb015838206.js"
+  "/atak-ui/precache-manifest.9abfde2cd6b538f330e73f7657c7ec2d.js"
 );
 
 self.addEventListener('message', (event) => {
