@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/atak-ui/precache-manifest.2bc3f12579237d2149c61c2daa2d3bf8.js"
+  "/atak-ui/precache-manifest.dbc638139f3b7c18ebece0a7799f590c.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "24c4cde30004c280376c27481f9b5db3",
+    "revision": "d5dccaf25530aaedc0bb75230a4c9d20",
     "url": "/atak-ui/index.html"
   },
   {
-    "revision": "e87282d83d38b2da0641",
-    "url": "/atak-ui/static/css/main.e1fd5c9e.chunk.css"
+    "revision": "aee07a5c7b722c262a88",
+    "url": "/atak-ui/static/css/main.0663fae7.chunk.css"
   },
   {
-    "revision": "70e43b55545a95fc7b36",
-    "url": "/atak-ui/static/js/2.1ffabe1c.chunk.js"
+    "revision": "22354cca1b5282e19c54",
+    "url": "/atak-ui/static/js/2.5e784b7d.chunk.js"
   },
   {
-    "revision": "e87282d83d38b2da0641",
-    "url": "/atak-ui/static/js/main.cd213789.chunk.js"
+    "revision": "aee07a5c7b722c262a88",
+    "url": "/atak-ui/static/js/main.62c55632.chunk.js"
   },
   {
     "revision": "79b402231944b99f60cb",
