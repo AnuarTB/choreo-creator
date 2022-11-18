@@ -18,7 +18,7 @@
     "react-overlays": "^1.2.0",
     "react-redux": "^7.0.3",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "3.0.0",
+    "react-scripts": "5.0.1",
     "react-tooltips": "^0.4.6",
     "redux": "^4.0.1"
   },
